@@ -3,19 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <title>2-Step Registration Form</title>
-<style>
-    body { font-family: Arial, sans-serif; display: flex; justify-content: center; margin-top: 40px; }
-    .container { width: 380px; padding: 20px; border: 1px solid #ccc; border-radius: 10px; }
-    .step { display: none; }
-    button { padding: 8px 16px; margin-top: 12px; cursor: pointer; }
-    .btn-group { display: flex; justify-content: space-between; margin-top: 20px; }
-</style>
+
 </head>
 
 <body>
 <div class="container">
 
-    <!-- Step 1 -->
+    
     <div id="step1" class="step">
         <h2>Step 1</h2>
         <label>Name:</label><br>
